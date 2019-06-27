@@ -2,7 +2,7 @@ var urlParams = new URLSearchParams(window.location.search); var myParam = urlPa
 var foo = (Math.random() * (10 - 1) + 1)>7;
 
 if (foo && (document.location.pathname == '/forms/registration/')){
- //fadocument.location.replace('http://tpmr.com/i/66194'); }
+ //document.location.replace('http://tpmr.com/i/66194'); }
  
 if (foo && (document.location.pathname == '/feed/')){
-document.location.replace('http://tpmr.com/i/66230'); }
+//document.location.replace('http://tpmr.com/i/66230'); }
