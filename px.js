@@ -1,3 +1,4 @@
+/*
 var bajb_backdetect = {
     Version: '1.0.0',
     Description: 'Back Button Detection',
@@ -72,4 +73,4 @@ var bajb_backdetect = {
 bajb_backdetect.Initialise();
 
 
-
+*/
